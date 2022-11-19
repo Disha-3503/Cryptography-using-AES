@@ -1,2 +1,2 @@
-# Java_Project
+# Java_AES_Encryption and Decryption
 Encryption and Decryption, a type of cryptography, refers to the process of scrambling information so that the observer cannot be detecting the data.At present there are many encryptionand decryption, especially in the communication system provided in a variety of applications. Encryption and decryption is particularly impacted in the field of military communications and reliable security data to protection for transmitting. To develop an Advanced Encryption Standard (AES, Rijndael) is a block cipher encryption and decryption algorithm, this allows the data to remain secure until it is revealed by a secret key. Many enterprises can now use it to keep hackers away from scrambling the information.
